@@ -1,0 +1,15 @@
+﻿{
+  "name": "twbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "youreimu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
